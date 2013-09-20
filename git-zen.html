@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Zen</title>
+	<meta charset="utf-8">
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine:bold">
 	<style>
@@ -47,17 +48,25 @@
 	</div>
 </body>
 <script type="text/javascript">
-	$(function(){
+	var fade_time = 2 * 1000;	// 2 seconds
+	var refresh_interval = 10 * 60 * 1000;	// 10 minutes
+	function fetch_new(){
 		$.ajax({
 			url:'https://api.github.com/zen'
 			, method: 'GET'
-			, username: 'systemsoverload'
 		}).done(
 			function(data) {
 				$koan = $('#koan');
-				$koan.html(data);
-				$koan.fadeIn(2000);
+				$koan.fadeOut(fade_time, function() {
+					$koan.html(data);
+					$koan.fadeIn(fade_time);
+				});
+				window.setTimeout(fetch_new, refresh_interval);
+		}).fail(
+			function() {
+				window.setTimeout(fetch_new, 1000);
 		});
-	});
+	}
+	$(fetch_new);
 </script>
 </html>
