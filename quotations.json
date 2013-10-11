@@ -1,0 +1,124 @@
+{"quotes":[
+	{
+	    "quotation": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult."
+	    ,"source": "C.A.R. Hoare (British computer scientist, winner of the 1980 Turing Award)"
+	},{
+	    "quotation": "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
+	    ,"source": "Edsger Dijkstra (Dutch computer scientist, winner of the 1972 Turing Award)"
+	},{
+	    "quotation": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight."
+	    ,"source": "Bill Gates (co-founder of Microsoft)"
+	},{
+	    "quotation": "Nine people can’t make a baby in a month."
+	    ,"source": "Fred Brooks (American computer scientist, winner of the 1999 Turing Award)"
+	},{
+	    "quotation": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
+	    ,"source": "Brian W. Kernighan (Canadian computer scientist, co-author of “C programming language”)"
+	},{
+	    "quotation": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
+	    ,"source": "Martin Golding"
+	},{
+	    "quotation": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows away your whole leg."
+	    ,"source": "Bjarne Stroustrup (Danish computer scientist, developer of the C++ programming language)"
+	},{
+	    "quotation": "When debugging, novices insert corrective code; experts remove defective code."
+	    ,"source": "Richard Pattis"
+	},{
+	    "quotation": "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."
+	    ,"source": "Eric S. Raymond (American programmer, open source software advocate, author of “The Cathedral and the Bazaar”)"
+	},{
+	    "quotation": "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
+	    ,"source": "Linus Torvalds (Finnish American, software engineer and hacker, principal force behind the development of the Linux kernel)"
+	},{
+	    "quotation": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning."
+	    ,"source": "Rich Cook"
+	},{
+	    "quotation": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+	    ,"source": "Martin Fowler (author and speaker on software development)"
+	},{
+	    "quotation": "Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?’"
+	    ,"source": "Steve McConnell (author of many software engineering books including “Code Complete”)"
+	},{
+	    "quotation": "The problem with using C++ … is that there’s already a strong tendency in the language to require you to know everything before you can do anything."
+	    ,"source": "Larry Wall (developer of the Perl language)"
+	},{
+	    "quotation": "People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones."
+	    ,"source": "Donald Knuth (computer scientist)"
+	},{
+	    "quotation": "One of my most productive days was throwing away 1000 lines of code."
+	    ,"source": "Ken Thompson (computer scientist, early developer of UNIX OS)"
+	},{
+	    "quotation": "Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves."
+	    ,"source": "Alan Kay (American computer scientist)"
+	},{
+	    "quotation": "Before software can be reusable it first has to be usable."
+	    ,"source": "Ralph Johnson (computer scientist)"
+	},{
+	    "quotation": "Programming is like sex. One mistake and you have to support it for the rest of your life."
+	    ,"source": "Michael Sinz"
+	},{
+	    "quotation": "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along wound destroy civilization."
+	    ,"source": "Gerald Weinberg (American computer scientist)"
+	},{
+		"quotation":"Beautiful is better than ugly.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Explicit is better than implicit.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Simple is better than complex.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Complex is better than complicated.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Flat is better than nested.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Sparse is better than dense.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Readability counts.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Special cases aren't special enough to break the rules.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Although practicality beats purity.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Errors should never pass silently.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Unless explicitly silenced.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"In the face of ambiguity, refuse the temptation to guess.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"There should be one-- and preferably only one --obvious way to do it.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Although that way may not be obvious at first unless you're Dutch.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Now is better than never.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Although never is often better than *right* now.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"If the implementation is hard to explain, it's a bad idea.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"If the implementation is easy to explain, it may be a good idea.",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Namespaces are one honking great idea -- let's do more of those!",
+		"source": "Tim Peters - Zen Of Python"
+	},{
+		"quotation":"Later equals never."
+		,"source":"Leblanc's Law"
+	}
+]}
+
